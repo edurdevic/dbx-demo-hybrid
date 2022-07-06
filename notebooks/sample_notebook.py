@@ -26,3 +26,4 @@ from dbx_demo_hybrid.workloads.sample_ml_job import SampleMLJob
 
 pipeline = SampleMLJob._get_pipeline()
 print(pipeline)
+
