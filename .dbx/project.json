@@ -1,0 +1,9 @@
+{
+    "environments": {
+        "default": {
+            "profile": "cust-west-europe",
+            "workspace_dir": "/Shared/dbx/dbx_demo_hybrid",
+            "artifact_location": "dbfs:/Shared/dbx/projects/dbx_demo_hybrid"
+        }
+    }
+}
